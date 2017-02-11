@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 10th, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Jordan Bennett)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment I learned how to use javascript to accept input, make calculations, and generate an output in different forms and created an application to calculate expenses and display them as percentages of total expenses. )
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://jrb16g.github.io/lesson4_javascript1/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (The format of javascript applications and how to insert them into html.)
+2. (how to create alerts and boxes to accept input from users.)
+3. (how to take user input, make caculations, and display those calculations within html.)
